@@ -301,7 +301,7 @@ function doWhile(numero) {
   
   do{
     numero +=5;
-    contador -=1;
+    contador -=  1;
 
 
   }while(contador > 0);
